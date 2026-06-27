@@ -5,3 +5,7 @@ mercedes hatchback
 i20 nline
 120 bhp 172 nm
 hyundai hatchback
+
+polo gt tsi
+115 bhp 175 nm
+vw hatchback
