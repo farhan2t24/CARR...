@@ -9,3 +9,7 @@ hyundai hatchback
 polo gt tsi
 115 bhp 175 nm
 vw hatchback
+
+v40 d3 r design
+150 bhp 320 nm
+volvo hatchback
