@@ -13,3 +13,7 @@ vw hatchback
 v40 d3 r design
 150 bhp 320 nm
 volvo hatchback
+
+VW 1.8 tsi
+182 bhp 250 nm
+vw hatchback
